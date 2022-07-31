@@ -36,7 +36,6 @@ body {
   position: fixed;
   bottom: 0.4rem;
   width: 100%;
-  text-align: center;
   color: #5f5f5f;
 }
 
@@ -113,7 +112,7 @@ body {
   border-radius: 50%;
 }
 
-@media (min-width: 376px) {
+@media (min-width: 768px) {
   .card {
     display: flex;
     flex-direction: row;
